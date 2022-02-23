@@ -6,7 +6,7 @@ class concate
      {
         concate Obj = new concate();
         Obj.consum(5, 6);
-        Obj.consum("Namitha" + " " + "Nandan");
+        Obj.consum("Vasim" + " " + "fayas");
     }
 
     void consum(int a, int b) {
